@@ -85,7 +85,7 @@ FACEBOOK_CLIENT_SECRET=c5550d7dba5b6c09180ab26face76089
         <img src="https://thanhcongfarm.com/wp-content/uploads/2022/05/anh-cho-hai-20.jpg" width="100px;" alt="Member 1"/>
         <br><sub><b>Phạm Nhật Hoàng</b></sub>
       </a>
-      <p>Vai trò: Project Manager</p>
+      <p>Project Manager</p>
       <p>Email: hoangpnps30696@fpt.edu.vn</p>
     </td>
     <td align="center">
@@ -93,7 +93,7 @@ FACEBOOK_CLIENT_SECRET=c5550d7dba5b6c09180ab26face76089
         <img src="https://thanhcongfarm.com/wp-content/uploads/2022/05/anh-cho-hai-20.jpg" width="100px;" alt="Member 2"/>
         <br><sub><b>Ngô Việt Anh</b></sub>
       </a>
-      <p>Vai trò: Backend Developer</p>
+      <p>Backend Developer</p>
       <p>Email: anhnvps30934@fpt.edu.vn</p>
     </td>
     <td align="center">
@@ -101,7 +101,7 @@ FACEBOOK_CLIENT_SECRET=c5550d7dba5b6c09180ab26face76089
         <img src="https://thanhcongfarm.com/wp-content/uploads/2022/05/anh-cho-hai-20.jpg" width="100px;" alt="Member 3"/>
         <br><sub><b>Lê Hoàng Hiền</b></sub>
       </a>
-      <p>Vai trò: Frontend Developer</p>
+      <p>Frontend Developer</p>
       <p>Email: hienlhps31008@fpt.edu.vn</p>
     </td>
     <td align="center">
@@ -109,7 +109,7 @@ FACEBOOK_CLIENT_SECRET=c5550d7dba5b6c09180ab26face76089
         <img src="https://thanhcongfarm.com/wp-content/uploads/2022/05/anh-cho-hai-20.jpg" width="100px;" alt="Member 4"/>
         <br><sub><b>Nguyễn Trọng Phúc</b></sub>
       </a>
-      <p>Vai trò: Backend Developer</p>
+      <p>Backend Developer</p>
       <p>Email: phucntps30804@fpt.edu.vn</p>
     </td>
     <td align="center">
@@ -117,7 +117,7 @@ FACEBOOK_CLIENT_SECRET=c5550d7dba5b6c09180ab26face76089
         <img src="https://thanhcongfarm.com/wp-content/uploads/2022/05/anh-cho-hai-20.jpg" width="100px;" alt="Member 5"/>
         <br><sub><b>Đỗ Minh Tâm</b></sub>
       </a>
-      <p>Vai trò: Backend Developer</p>
+      <p>Backend Developer</p>
       <p>Email: tamdmps36365@fpt.edu.vn</p>
     </td>
   </tr>
